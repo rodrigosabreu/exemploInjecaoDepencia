@@ -1,0 +1,10 @@
+C:\EstudosDotNetCore\injecaoDependencia\bin\Debug\netcoreapp2.0\injecaoDependencia.deps.json
+C:\EstudosDotNetCore\injecaoDependencia\bin\Debug\netcoreapp2.0\injecaoDependencia.runtimeconfig.json
+C:\EstudosDotNetCore\injecaoDependencia\bin\Debug\netcoreapp2.0\injecaoDependencia.runtimeconfig.dev.json
+C:\EstudosDotNetCore\injecaoDependencia\bin\Debug\netcoreapp2.0\injecaoDependencia.dll
+C:\EstudosDotNetCore\injecaoDependencia\bin\Debug\netcoreapp2.0\injecaoDependencia.pdb
+C:\EstudosDotNetCore\injecaoDependencia\obj\Debug\netcoreapp2.0\injecaoDependencia.csproj.CoreCompileInputs.cache
+C:\EstudosDotNetCore\injecaoDependencia\obj\Debug\netcoreapp2.0\injecaoDependencia.AssemblyInfoInputs.cache
+C:\EstudosDotNetCore\injecaoDependencia\obj\Debug\netcoreapp2.0\injecaoDependencia.AssemblyInfo.cs
+C:\EstudosDotNetCore\injecaoDependencia\obj\Debug\netcoreapp2.0\injecaoDependencia.dll
+C:\EstudosDotNetCore\injecaoDependencia\obj\Debug\netcoreapp2.0\injecaoDependencia.pdb
